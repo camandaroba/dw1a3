@@ -17,8 +17,8 @@
 		<a href="#IDI">Idiomas </a><br>
 	<h2 id = "DP"> Dados Pessoais</h2>
 	<hr>
-	<p> <i> Nome: Douglas Camandaroba</i></p> 
-	<p> <i> Email: <a href="mailto:douglas.rodrigues@aluno.ifsp.edu.br">douglas.rodrigues@aluno.ifsp.edu.br </a></i></p> 
+	<p> Nome: José Little </p> 
+	<p> Email: <a href="mailto:douglas.rodrigues@aluno.ifsp.edu.br">douglas.rodrigues@aluno.ifsp.edu.br </a></p> 
 	<p> <i> Github: <a href="https://github.com/dougkrodrigues">dougkrodrigues </a></i></p> 
 	<h2 id = "OBJ"> Objetivo </h2>
 	<hr>
@@ -32,10 +32,8 @@
 	<h2 id = "EP"> Experiencia Profissional </h2>
 	<hr>
 	<ul>
-		<li> Operador de abastecimento automotivo </li>
-		<li> Gasolina Adulterada LTDA </li>
-		<li> Perito em limpeza veicular </li>
-		<li> Lava Rapido do Zé </li>
+		<li> Operador de abastecimento automotivo - Gasolina Adulterada LTDA </li>
+		<li> Perito em limpeza veicular - Lava Rapido do Zé </li>
 	</ul>
 	<h2 id = "AC"> Atividades Complementares </h2>
 	<hr>
@@ -47,7 +45,7 @@
 	<h2 id = "IDI"> Idiomas </h2>
 	<hr>
 	<ul>	
-		<li> Portugues 
+		<li><b>Portugues</b>
 			<ul>
 				<li> Escreve Basico </li>
 				<li> Lê Basico </li>
@@ -55,7 +53,7 @@
 				<li> Fala Ruim </Li>
 			</ul>
 		</li>
-		<li> Dialeto da quebrada
+		<li> <b>Dialeto da quebrada</b>
 			<ul>
 				<li> Escreve Pode pa </li>
 				<li> Lê Suave </li>
