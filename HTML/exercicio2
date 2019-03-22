@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8"/>
+	<title>Exercicio 2 - Curriculum Vitae </title>
+</head>
+<body>
+
+	<h1> Exercício 2 - Curriculum Vitae <h1>
+	
+	<h2 id = "Index"> Index </h2>
+		<a href="#DP">Dados Pessoais</a><br>
+		<a href="#OBJ">Objetivo</a><br>
+		<a href="#FA">Formação Acadêmica</a><br>
+		<a href="#EP">Experiência Profissional</a><br>
+		<a href="#AC">Atividades Complementares</a><br>
+		<a href="#IDI">Idiomas </a><br>
+	<h2 id = "DP"> Dados Pessoais</h2>
+	<hr>
+	<p> <i> Nome: Douglas Camandaroba</i></p> 
+	<p> <i> Email: <a href="mailto:douglas.rodrigues@aluno.ifsp.edu.br">douglas.rodrigues@aluno.ifsp.edu.br </a></i></p> 
+	<p> <i> Github: <a href="https://github.com/dougkrodrigues">dougkrodrigues </a></i></p> 
+	<h2 id = "OBJ"> Objetivo </h2>
+	<hr>
+	<p> Atuar como especialista em alocação de veiculos em via publica (flanelinha) </p>
+	<h2 id = "FA"> Formação Acadêmica </h2>
+	<hr>
+	<ul>
+		<li> Encino fundamental completo </li>
+		<li> Escola primaria de Springfield </li>
+	</ul>
+	<h2 id = "EP"> Experiencia Profissional </h2>
+	<hr>
+	<ul>
+		<li> Operador de abastecimento automotivo </li>
+		<li> Gasolina Adulterada LTDA </li>
+		<li> Perito em limpeza veicular </li>
+		<li> Lava Rapido do Zé </li>
+	</ul>
+	<h2 id = "AC"> Atividades Complementares </h2>
+	<hr>
+	<ul>
+		<li> Lateral Direito do time da vila </li>
+		<li> Divulgador de informações na empresa ZapZap </li>
+		<li> Sommelier de pastel de feira </li>
+	</ul>
+	<h2 id = "IDI"> Idiomas </h2>
+	<hr>
+	<ul>	
+		<li> Portugues 
+			<ul>
+				<li> Escreve Basico </li>
+				<li> Lê Basico </li>
+				<li> Compreende Basico </li>
+				<li> Fala Ruim </Li>
+			</ul>
+		</li>
+		<li> Dialeto da quebrada
+			<ul>
+				<li> Escreve Pode pa </li>
+				<li> Lê Suave </li>
+				<li> Compreende As parada </li>
+				<li> Fala Giria </li>
+</html>
