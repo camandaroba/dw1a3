@@ -1,0 +1,15 @@
+h1 {color: red}
+
+ body{margin-left: 2%; 
+margin-top: 1%; 
+margin-right: 60%; 
+border-style: dotted; 
+border: 1%; 
+padding: 2%; 
+background-color: blue; 
+border-color: yellow;}
+
+ form{ font-family:Arial, sans-serif;
+    color: black;
+    background-color: white;
+    padding: 3%}
